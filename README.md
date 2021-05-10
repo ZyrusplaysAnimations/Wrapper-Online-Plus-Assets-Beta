@@ -11,21 +11,4 @@ This is a cool recreation of the d3v4eglovri8yt cloudfront server, with some ext
 
 # Mod Credits
 
-~ Custom Clothing & Other Custom Assets ~
-Kenny Animate 
-Waleed Tariq2001
-AntiTrooperProductions UTTP
-SageAwesomeStarAniPicScope
-JackTheVyonder2006
-creepyjokes
-NathanSB
-KingHedgehog
-BlueWrapper GalaxyHedgehog
-
-
-~ Split/Custom Action Maker Mod ~
-Kenny Animate
-
-
-~ Head Accessory Splitter Mod ~
-Kenny Animate
+Credits will be [here](https://zyrusplaysanimations.github.io/Wrapper-Online-Plus-Assets-Beta/credits)
