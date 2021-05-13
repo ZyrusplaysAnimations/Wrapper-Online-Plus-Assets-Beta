@@ -1,6 +1,6 @@
-# Do not FORK yet!
+# Do not CONNECT yet!
 
-This repository is not ready, we will try to add more assets here so please do not fork it nor connect it with your LVM clone. This asset server is BETA.
+This repository is not ready, we will try to add more assets here so please do not connect it with your LVM clone. This asset server is BETA.
 
 # This is not a template
 If you wan't to fork this, do not change the forked repository to template please.
