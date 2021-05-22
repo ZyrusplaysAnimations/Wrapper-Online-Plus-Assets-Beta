@@ -15493,7 +15493,7 @@
   <prop id="baseballbat.swf" name="Baseball bat" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3220" money="0" sharing="0" handstyle="stick"/>
   <prop id="ak47.swf" name="AK 47" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3221" money="0" sharing="0" handstyle="stick"/>
   <prop id="cake.swf" name="Cake" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3222" money="0" sharing="0"/>
-   <prop id="fhs_sunwithgloweffect.png" name="Farm Heroes Saga Sun With Glow Effect" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9301" money="0" sharing="0"/>
+   <prop id="fhs_sunwithgloweffect.png" name="Fhs Sun w glow" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="23107" money="0" sharing="0"/>
   <prop id="cigar.swf" name="Cigarette" holdable="1" placeable="0" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3223" money="0" sharing="0"/>
   <prop id="coke1.swf" name="Coke" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3224" money="0" sharing="0" handstyle="flat"/>
   <prop id="grenade.swf" name="Grenade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3225" money="0" sharing="0" handstyle="flat"/>
