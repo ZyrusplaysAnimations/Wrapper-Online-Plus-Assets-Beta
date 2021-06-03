@@ -11,7 +11,7 @@ This is a cool recreation of the d3v4eglovri8yt cloudfront server, with some ext
 
 # I want to put my custom asset here
 
-If you want to add your custom asset here, DM me. (ZyrusplaysAnimations#3889) Don't send me a friend request, friend request are off.
+If you want to add your custom asset here, DM me. (ZyrusplaysAnimations#3889)
 
 # Mod Credits
 
