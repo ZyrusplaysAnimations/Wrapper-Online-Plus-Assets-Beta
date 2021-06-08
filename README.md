@@ -1,3 +1,7 @@
+# Note
+
+This is the official version of Wrapper Online+ (If you see another repository called Wrapper Online Plus, that is the unofficial version/edited version by others.)
+
 # Do not CONNECT yet!
 
 This repository is not ready, we will try to add more assets here so please do not connect it with your LVM clone. This asset server is BETA.
