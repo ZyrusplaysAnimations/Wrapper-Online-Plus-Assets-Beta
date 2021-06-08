@@ -1,6 +1,6 @@
 # Note
 
-This is the official version of Wrapper Online+ (If you see another repository called Wrapper Online Plus, that is the unofficial version/edited version by others.)
+This is the official version of Wrapper Online+ (If you see another repository called Wrapper Online Plus, that is the unofficial version/edited version by others.) -ZyrusplaysAnimations
 
 # Do not CONNECT yet!
 
