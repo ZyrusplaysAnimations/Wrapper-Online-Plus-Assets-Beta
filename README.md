@@ -2,7 +2,9 @@
 
 This is the official version of Wrapper Online+ (If you see another repository called Wrapper Online Plus, that is the unofficial version/edited version by others.) -ZyrusplaysAnimations
 
-P.S: Don't visit this [site!](https://josephcrosmanplays532.github.io/Wrapper-Online-Plus-Assets-Beta/) That user is stealing my project!
+# Not Going to move this to the Wrapper Online+ Organization
+
+I will not move this to avoid glitching out the repository
 
 # Do not CONNECT yet!
 
