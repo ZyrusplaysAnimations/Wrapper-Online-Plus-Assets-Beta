@@ -123,6 +123,13 @@ header dropdowns
 /**
 footer
 **/
+footer_index{
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
+
 footer{
 	background: #e0e0e0;
 	margin-top: auto; /* footer at the foot */
