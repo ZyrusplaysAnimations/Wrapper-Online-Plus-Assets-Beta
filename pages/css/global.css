@@ -128,6 +128,9 @@ footer_index{
   padding: 3px;
   background-color: DarkSalmon;
   color: white;
+  margin-top: auto;
+  display: flex;
+  justify-content: space-between
 }
 
 footer{
