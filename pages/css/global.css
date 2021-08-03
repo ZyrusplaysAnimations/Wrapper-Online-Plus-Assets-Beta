@@ -124,10 +124,10 @@ header dropdowns
 footer
 **/
 footer_index{
-  text-align: center;
   padding: 3px;
-  background-color: DarkSalmon;
-  color: white;
+  background: linear-gradient(90deg, rgba(0,181,255,1) 0%, rgba(255,0,155,1) 100%);
+  color: #fff;
+  text-align: center;
   margin-top: auto;
   display: flex;
   justify-content: space-between
