@@ -1,0 +1,20 @@
+/* footer text color */
+footer_a {
+color: white;
+}
+
+footer_a:link {
+  text-decoration: none;
+}
+  
+footer_a:visited {
+text-decoration: none;
+}
+
+footer_a:hover {
+text-decoration: none;
+}
+
+footer_a:active {
+  text-decoration: none;
+}
