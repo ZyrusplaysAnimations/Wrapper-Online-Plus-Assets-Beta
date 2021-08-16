@@ -1,20 +1,20 @@
 /* footer text color */
-footer_a {
+.footer a {
 color: white;
 }
 
-footer_a:link {
+.footer a:link {
   text-decoration: none;
 }
   
-footer_a:visited {
+.footer a:visited {
 text-decoration: none;
 }
 
-footer_a:hover {
+.footer a:hover {
 text-decoration: none;
 }
 
-footer_a:active {
+.footer a:active {
   text-decoration: none;
 }
