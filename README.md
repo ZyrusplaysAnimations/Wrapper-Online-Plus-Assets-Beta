@@ -1,6 +1,6 @@
 # Wrapper: Online+ Asset server
 ![Build](https://img.shields.io/badge/Build-Beta%201.3.0-green)
-![Server](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
+![Server](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white&url=https://discord.gg/DEf3VCFb2H)
 
 # Note
 
