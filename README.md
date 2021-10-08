@@ -1,3 +1,7 @@
+# Wrapper: Online+ Asset server
+![Build](https://img.shields.io/badge/Build-Beta%201.3.0-green)
+![Server](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
+
 # Note
 
 This is the official version of Wrapper Online+ (If you see another repository called Wrapper Online Plus, that is the unofficial version/edited version by others.) -ZyrusplaysAnimations
