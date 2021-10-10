@@ -21,10 +21,11 @@
 		<h1 style="margin:0"><img id="logo" src="Untitled231.png" alt="Wrapper: Online+"/></h1>
 	</div>
 </header>
-<div class="warning"> Heads up!<br>
+<div class="warning" id="alert"> Heads up!<br>
 3rd party sites are stealing the repository. Whatever you do, don't click their sites! It contains redirects, virus and malware or even ransomware! ZyrusplaysAnimations and W:O+ Devs are not responsible for any damages cause of viruses from 3rd party sites.<br>
 Make sure that the "config.json" of Wrapper: Online+ - Localhost edition and Wrapper: Online+ - Offline edition are connected to the official asset server "https://zyrusplaysanimations.github.io/Wrapper-Online-Plus-Assets-Beta/".<br> 
 Thank you and have a safe day :)<br>
+	<a onclick="removeElement()">Hide</a>
 		</div>
 <main>
 
@@ -66,4 +67,10 @@ If you meant to come here, feel free to look around and do stuff. Maybe you’ll
 	</nav>
   </footer_index>
 
-</body></html>
+<script>
+	function removeElement() {
+  document.getElementById("alert").style.display = "none";
+}
+</script>
+</body>
+</html>
