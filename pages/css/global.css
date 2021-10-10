@@ -119,6 +119,25 @@ header dropdowns
 	margin: 10px 0;
 }
 
+/**Warning div**/
+.warning {
+font-size: 14px;
+padding: 10px 0;
+background-color: #fd7;
+text-align: center;
+color: #000000;
+}
+
+.warning::before {
+font-family: 'GlyphiconsRegular';
+padding-right: 4px;
+content: '\E079';
+font-size: 12px;
+}
+
+.warning>a {
+color: #5596e6;
+}
 
 /**
 footer
