@@ -31,6 +31,6 @@ This is a cool recreation of the d3v4eglovri8yt cloudfront server, with some ext
 
 If you want to add your custom asset here, DM me. (ZyrusplaysAnimations#3889)
 
-# Mod Credits
+# Mod Credits 
 
 Credits will be [here](https://zyrusplaysanimations.github.io/Wrapper-Online-Plus-Assets-Beta/credits)
