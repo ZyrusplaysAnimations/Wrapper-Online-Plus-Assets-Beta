@@ -16329,6 +16329,7 @@
   <prop id="msp_sun01" name="Sun" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_sun01_ncc_sun.swf" enable="Y" is_premium="N" aid="11074" money="0" sharing="0">
     <state id="msp_sun01_ncc_sun.swf" name="round" enable="Y" default="Y"/>
     <state id="msp_sun01_ncc_sun01.swf" name="sparky" enable="Y"/>
+    <state id"msp_sun01_ncc_sun02.swf" name="fhs (test swf)" enable="Y"/>
   </prop>
   <prop id="msp_docbox" name="File box" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_docbox_ncc_doc_box_front.swf" enable="Y" is_premium="N" aid="11222" money="0" sharing="0">
     <state id="msp_docbox_ncc_doc_box_front.swf" name="front part" enable="Y" default="Y"/>
