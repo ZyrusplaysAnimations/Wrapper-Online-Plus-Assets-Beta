@@ -2,6 +2,10 @@
 ![Build](https://img.shields.io/badge/Build-Beta%201.3.0-green)
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/DEf3VCFb2H)
 
+# ASSET SERVER CLOSING DOWN
+This Asset server will be closed/Archived soon due to forkers. We will move this repository to gitlab. We will alert you if the gitlab asset server is ready so you can modify the config.json.
+	Thank you
+
 # Note
 
 This is the official version of Wrapper Online+ (If you see another repository called Wrapper Online Plus, that is the unofficial version/edited version by others.) -ZyrusplaysAnimations
