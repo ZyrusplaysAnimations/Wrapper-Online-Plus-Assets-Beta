@@ -14,8 +14,8 @@ I will not move this to avoid glitching out the repository
 
 This repository is not ready, we will try to add more assets here so please do not connect it with your LVM clone. This asset server is BETA.
 
-# This is not a template
-If you wan't to fork this, do not change the forked repository to template please.
+# Forking the repository
+If you wan't to fork this, do not change the forked repository to template. And if you want to make your own asset server from this repository, please let me know and add me in that repository. If you fork this, all of the links will redirect to the official page (If you didn't modify it.). 
 
 # Wrapper Online+: Localhost version
 The Repository is [Here](https://github.com/ZyrusplaysAnimations/Official-Repository-Of-Wrapper-Online-Plus) (Private Repository, not released yet.)
