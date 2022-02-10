@@ -2,9 +2,8 @@
 ![Build](https://img.shields.io/badge/Build-Beta%201.3.0-green)
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/DEf3VCFb2H)
 
-# ASSET SERVER CLOSING DOWN
-This Asset server will be closed/Archived soon due to forkers. We will move this repository to gitlab. We will alert you if the gitlab asset server is ready so you can modify the config.json.
-	Thank you
+# Back on Air!
+This asset server will be back. Updating the repo for new assets soon!
 
 # Note
 
