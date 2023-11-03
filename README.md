@@ -2,8 +2,8 @@
 ![Build](https://img.shields.io/badge/Build-Beta%201.3.0-green)
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/DEf3VCFb2H)
 
-# Back on Air!
-This asset server will be back. Updating the repo for new assets soon!
+# No Longer in development
+This asset server is PERMANENTLY closed and no longer updated. Please use other asset servers for your lvm or use Wrapper: Offline instead.
 
 # Note
 
